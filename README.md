@@ -1,4 +1,4 @@
-![Logga](assets/logo.jpg)
+![Logga](assets/logo.jpg = 250x)
 
 # NTI Gymnasiet Stockholm
 Här samlar vi projekt gjorda för eller av elever på skolan för att visa upp arbeten och dela kunskap.
