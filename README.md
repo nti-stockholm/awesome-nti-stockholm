@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/logo.jpg" alt="Logga" width="200"/>
+    <img src="assets/logo.jpg" alt="Logga" width="400"/>
 </p>
 
 # NTI Gymnasiet Stockholm
