@@ -9,10 +9,10 @@ assignees: alvarlagerlof
 
 Please fill in your details under following titles
 
-*The name of the project*
+**The name of the project**
 
-*Describe the project in a maximum of three sentences*
+**Describe the project in a maximum of three sentences**
 
-*Link to the project on GitHub*
+**Link to the project on GitHub**
 
-*Is it a *gymansiearbete* or _other project_*
+**Is it a *gymansiearbete* or _other project_**
