@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logo.jpeg" alt="Logga" width="100px"/>
+    <img src="logo.jpeg" alt="Logo" width="100px"/>
 </p>
 <h1 align="center">Awsome NTI</h1>
 <p align="center">The following is a collection of projects made <br/> by students at NTI Gymnasiet Stockholm</p>
