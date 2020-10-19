@@ -1,14 +1,15 @@
 <p align="center">
-    <img src="assets/logo.jpg" alt="Logga" width="600"/>
+    <img src="logo.jpeg" alt="Logga" width="100px"/>
 </p>
+<h1 align="center">Awsome NTI</h1>
+<p align="center">The following is a collection of projects made <br/> by students at NTI Gymnasiet Stockholm</p>
 
-# Awsome NTI
-The following is a collection of projects made by students at NTI Gymnasiet Stockholm
+<br/>
 
 ## Final projects (?) (Gymansiearbeten)
 - [Formux](https://github.com/formux-dev/info) - An experiemnt about A/B testing with forms
 
-Click [here](https://github.com/NTI-Gymnasiet-Stockholm/awesome-nti/issues/new) add your project to this list
+Click [here](https://github.com/nti-stockholm/awesome-nti-stockholm/issues/new?assignees=alvarlagerlof&labels=new+project&template=new-project.md&title=I+want+to+add+my+project+to+the+list) add your project to this list
 
 
 ## Projects in this repo
