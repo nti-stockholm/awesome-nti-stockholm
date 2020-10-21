@@ -6,10 +6,10 @@
 
 <br/>
 
-## How do I add my project
+## How do I add my project?
 Click [here](https://github.com/nti-stockholm/awesome-nti-stockholm/issues/new?assignees=alvarlagerlof&labels=new+project&template=new-project.md&title=I+want+to+add+my+project+to+the+list) add your project to this list
 
-## Final projects (?) (Gymansiearbeten)
+## Final projects (Gymansiearbeten)
 - [Formux](https://github.com/formux-dev/info) - An experiment with A/B testing with forms
 - [RoomSeeker](https://github.com/VirreV/RoomSeeker) - Software to make navigation simpler in school.
 
