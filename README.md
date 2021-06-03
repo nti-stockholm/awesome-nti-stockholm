@@ -19,3 +19,4 @@ Click [here](https://github.com/nti-stockholm/awesome-nti-stockholm/issues/new?a
 - [tetris](https://github.com/asplunds/tetris) - Simple Tetris web canvas game made in Typescript. By [asplunds](https://github.com/asplunds)
 - [denoot](https://github.com/Denoot/denoot) - Backend web framework and router for Deno. By [asplunds](https://github.com/asplunds) & [PumpedSardines](https://github.com/PumpedSardines)
 - [pathfinding](https://github.com/PumpedSardines/pathfinding) - A* pathfinding project using canvas. By [PumpedSardines](https://github.com/PumpedSardines)
+- [neurodiversity](https://github.com/alvarlagerlof/neurodiversity) - Website about neurodiversity. By [alvarlagerlof](https://github.com/alvarlagerlof)
